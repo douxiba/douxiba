@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+$\color{Apricot}\Huge{\textsf{Normal, colored text}}$
+
 <!--
 **douxiba/douxiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
